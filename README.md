@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ranjan-kishor.netlify.app](https://ranjan-kishor.netlify.app)
 
-- 💬 Ask me about **C/C++, Java, Python, Web Development, Data Structures, MySQL.**
+- 💬 Ask me about **C/C++, Java, Python, Web Development, Web Scrapping, Data Structures, MySQL.**
 
 - 📫 How to reach me **ranjankishor83@gmail.com**
 
