@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.Js**
 
-- 👨‍💻 All of my projects are available at [https://ranjan-kishor.netlify.app](https://ranjan-kishor.netlify.app)
+- 👨‍💻 Check my portfolio and know more about me [https://ranjan-kishor.netlify.app](https://ranjan-kishor.netlify.app)
 
 - 💬 Ask me about **C/C++, Java, Python, Web Development, Web Scrapping, Data Structures, MySQL.**
 
