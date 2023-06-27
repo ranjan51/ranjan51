@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjan51" alt="ranjan51" /></a> </p>
 
+
 - 🌱 I’m currently learning **React.Js**
+![55109625](https://github.com/ranjan51/ranjan51/assets/73476296/f230524c-0aee-4878-acbc-e668cc7bab45)
 
 - 👨‍💻 Check my portfolio and know more about me [https://ranjan-kishor.netlify.app](https://ranjan-kishor.netlify.app)
 
