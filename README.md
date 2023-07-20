@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ranjan</h1>
 <h3 align="center">A MCA Student and a Learner.</h3>
 <img align = "center" alt="coding" width="1000" padding-down="10ox" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjan51&label=Profile%20views&color=0e75b6&style=flat" alt="ranjan51" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjan51" alt="ranjan51" /></a> </p>
 
-
 - 🌱 I’m currently learning **React.Js**
-![55109625](https://github.com/ranjan51/ranjan51/assets/73476296/f230524c-0aee-4878-acbc-e668cc7bab45)
+
 
 - 👨‍💻 Check my portfolio and know more about me [https://ranjan-kishor.netlify.app](https://ranjan-kishor.netlify.app)
 
@@ -17,7 +15,6 @@
 - 📫 How to reach me **ranjankishor83@gmail.com**
 
 - ⚡ Fun fact **I am Funny.**
-![55109625](https://github.com/ranjan51/ranjan51/assets/73476296/da7b8d42-6167-43e0-bc50-502829b6e471)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
